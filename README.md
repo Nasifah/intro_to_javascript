@@ -2,8 +2,5 @@
 
 This is a JavaScript code that displays my name, height, and country.
 
-Link to html file: 
-https://github.com/Nasifah/intro_to_javascript/blob/main/index.html
+Link to hosted GitHub Page: https://nasifah.github.io/intro_to_javascript/
 
-Link to JavaScript file:
-https://github.com/Nasifah/intro_to_javascript/blob/main/info.js
